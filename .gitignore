@@ -1,0 +1,13 @@
+# Folders
+.idea
+.history
+
+# Java
+*.class
+
+# C / CPP
+*.o
+*.obj
+
+# Binaries
+*.exe
