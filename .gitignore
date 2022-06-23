@@ -1,6 +1,7 @@
 # Folders
 .idea
 .history
+.run
 
 # Java
 *.class
